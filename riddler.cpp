@@ -20,7 +20,7 @@ bool timesThree(int);  //Thousands place must be 3x tens place
 int main()
 {
    //vars
-   int i;
+   int i;              //Integer loop
 
    //processing
    for (i=1000; i <= 9999; i++)
